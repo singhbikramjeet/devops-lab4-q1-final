@@ -11,6 +11,7 @@
     <None Remove="StringLibrary" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.3" />
     <PackageReference Include="StringLibrary" Version="1.0.0-CI-20230412-195709" />
   </ItemGroup>
 </Project>
