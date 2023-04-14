@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{3076A543-82D6-4FAA-808E-F1BBC8F82DB1}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShowCase FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
